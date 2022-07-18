@@ -8,4 +8,4 @@ My name is Zulfikar Muhamad. I'm a Cloud Engineer / :cloud: enthusiast!
 
 # Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zul-m&langs_count=10&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zul-m&langs_count=10&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
