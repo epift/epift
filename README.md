@@ -1,4 +1,4 @@
-# Hello there 👋
+## Hello there 👋
 
 It's Obi-Wan Kenobi (nah, I'm Zulfikar Muhamad). I'm a Cloud Engineer / :cloud: enthusiast!
 
