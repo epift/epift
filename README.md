@@ -14,7 +14,7 @@ Hello There, I'm Zulfikar Muhamad 👋
 
 <p align="center"><a href="https://github.com/zul-m/zul-m"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zul-m&count_private=true&show_icons=true&theme=github_dark&cache_seconds=1800&custom_title=GitHub%20Stats" alt="Zul-M's GitHub stats" /></a>
 
-<p align="center"><a href="https://github.com/zul-m/zul-m"><img align="center" alt="Zul-M's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=zul-m&theme=github-dark&custom_title=GitHub%20Contribution%20Graph" /></a>
+<p align="center"><a href="https://github.com/zul-m/zul-m"><img align="center" alt="Zul-M's contribution graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=zul-m&theme=github-dark&custom_title=GitHub%20Contribution%20Graph" /></a>
 
 ## 🦎 Holopin
 
